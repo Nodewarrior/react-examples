@@ -1,6 +1,6 @@
 
 =======
-# react-examples
+# React-examples
 Few sample example of react projects
 
 # How to Implement?
